@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-Bold.ttf",
+      "sha1": "786c841f95081e88b2fbf237a8b1bc9b0e49fb4e"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-BoldItalic.ttf",
+      "sha1": "6d356e95d02dd87efec5f4dad42b7976d59a7e24"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-Light.ttf",
+      "sha1": "abc5cadaa402747354e9981e121b6bdebdd51ee1"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-LightItalic.ttf",
+      "sha1": "986d1f05f8a2508f5b5b0fefb7cb0a6af1d4d518"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-Medium.ttf",
+      "sha1": "6715b7e9213cf356020085a3a0f8b34b32bc129c"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-MediumItalic.ttf",
+      "sha1": "4f0107bd7cf2ec0853c002dbc2cfb6a48b62e36e"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-Regular.ttf",
+      "sha1": "0b61e51f11f7c71b6e8d116f28dee4b80cfea56a"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-RegularItalic.ttf",
+      "sha1": "b788ec05132308bf68daf6676a2782c69c5f6988"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-SemiBold.ttf",
+      "sha1": "c9446f2e14bee3c866f079c7620e911812ee01e0"
+    },
+    {
+      "path": "src/assets/fonts/GTFEkstraTRIAL-SemiBoldItalic.ttf",
+      "sha1": "3c9a746947388a475f2aa1ff96a42ec15753e0a6"
+    }
+  ]
+}
